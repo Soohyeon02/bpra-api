@@ -1,0 +1,19 @@
+{
+  "name": "bpra-api",
+  "version": "1.0.0",
+  "description": "API for BPRA cardio system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addroomberg/bpra-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addroomberg/bpra-api/issues"
+  },
+  "homepage": "https://github.com/addroomberg/bpra-api#readme"
+}
